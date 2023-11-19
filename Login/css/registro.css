@@ -1,0 +1,57 @@
+.Bloque_fondo2{
+    width: 80%;
+    height: 92%;
+    border-radius: 0.5rem;
+    background-color: transparent;
+    backdrop-filter: blur(55px);
+    padding: 2rem 4rem 2rem 4rem;
+    position: absolute;
+    top: 54%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid white;
+}
+.Registro{
+    width: 70%;
+    height: 90%;
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #eff3f607;
+    color: white;
+    padding: 1rem 6rem 1rem 6rem;
+    border-radius: 0.5rem;
+}
+.Registro input{
+    width: 20%;
+    padding-top: -10rem;
+}
+h1{
+    text-align: start;
+}
+.Bloque2{
+    background-color: rgba(0, 0, 0, 0.076);
+    margin: 0.6rem;
+    padding: 1.5rem;
+}
+button{
+    padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+    border-radius: 0.3rem;
+    color: white;
+    background-color: #e92300df;
+    border: none;
+    margin-left: 70%;
+    font-size: large;
+    position: absolute;
+    top: 90%;
+    left: 15%;
+}
+button:hover{
+    color: white;
+    background-color: #b21d03e2;
+}
+.Encabezado img{
+    left:84%;
+    width: 10rem;
+}
