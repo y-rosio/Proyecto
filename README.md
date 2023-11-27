@@ -1,11 +1,12 @@
-# Simulador de Ecosistema
 <div align="center">
-Integrantes:  Cristian Emmanuel Caceres Escare 
-              Yaninna Rossio Álvarez Alvarez 
-  Universidad Católica de Temuco, Campus Norte
-  Sección 1 
-  Fecha de entrega: 28 de noviembre 2023 
+  # Simulador de Ecosistema
+  Integrantes:  Cristian Emmanuel Caceres Escare <br>
+              Yaninna Rossio Álvarez Alvarez <br>
+  Universidad Católica de Temuco, Campus Norte <br>
+  Sección 1 <br>
+  Fecha de entrega: 28 de noviembre 2023 <br>
 </div>
+
 # Introducción
 
 Para poder crear un simulador de ecosistema se requiere usar el lenguaje de progracion de objetos (POO), ya que con este podremos manejar eventos y acciones de un simulador.
