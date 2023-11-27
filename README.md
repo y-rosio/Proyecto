@@ -1,14 +1,10 @@
-# projecto_info1123_
-
-### El proyecto actual se encuntra en la rama test.
 # Simulador de Ecosistema
 <div align="center">
 Integrantes:  Cristian Emmanuel Caceres Escare 
               Yaninna Rossio Álvarez Alvarez 
-
-Universidad Católica de Temuco, Campus Norte 
-Sección 1 
-Fecha de entrega: 28 de noviembre 2023 
+  Universidad Católica de Temuco, Campus Norte
+  Sección 1 
+  Fecha de entrega: 28 de noviembre 2023 
 </div>
 # Introducción
 
