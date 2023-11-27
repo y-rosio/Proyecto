@@ -1,5 +1,6 @@
+# SIMULADOR DE ECOSISTEMA
 <div align="center">
-  # Simulador de Ecosistema
+  <br>
   Integrantes:  Cristian Emmanuel Caceres Escare <br>
               Yaninna Rossio Álvarez Alvarez <br>
   Universidad Católica de Temuco, Campus Norte <br>
